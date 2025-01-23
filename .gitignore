@@ -1,2 +1,6 @@
 data/
+datasets_realvideo
+stereoflow_models
 *.pth
+models/__pycache__/
+*.pyc
